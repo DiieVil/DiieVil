@@ -1,6 +1,6 @@
 Currently studying Digital Technology and Multimedia at UPV
 
-Experience in C# (Unity), software developement (Python, Java), IoT technologies and Blockchain software developement (JavaScript, Solidity). Knowledge in Docker.
+I have experience in C# (Unity), and currently studying and developing Full Stack projects, with Python and Angular.
 
 Interested in software/blockchain/videogames development.
 
