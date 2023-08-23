@@ -1,24 +1,22 @@
-¡Buenas!
-
-Tras terminar el grado de Tencnología Digital y Multimedia en la UPV, estoy en busca de trabajo. 
-
-Tengo experiencia en desarrollo de aplicaciones en Unity / C#, HTML, desarrollo Backend con Python y JavaScript, Frontend con CSS y Angular.
-
-Busco un puesto de desarrollador de Backend/Frontend, o desarrollador de software con las tecnologías anteriormente mencionadas.
-
-¡Un saludo!
-
-----
-
 Hello!
 
-After finishing my degree in Digital Technology and Multimedia at UPV, I'm looking for a job. 
+Welcome to my GitHub page, where you can find the different projects that I have developed in career Digital Technology and Multimedia at the Universitat Politècnica de València, as well as projects that I am currently developing.
 
-I have experience in software development in Unity / C#, HTML, Backend development with Python and JavaScript, Frontend with CSS and Angular.
+My main experience is focused on Python, C# and Unity. I also have interest in Java, and blockchain development with Solidity.
 
-I am looking for a position as a Backend/Frontend developer, or software developer with the above mentioned technologies.
+For more information, feel free to contact me through LinkedIn. 
 
-Bests!
+Best regards!
+
+---
+
+Bienvenido a mi página de GitHub, donde podrás encontrar los diferentes proyectos que he desarrollado en la carrera Tecnología Digital y Multimedia en la Universidad Politécnica de Valencia, así como proyectos que estoy desarrollando actualmente.
+
+Mi experiencia principal se centra en Python, C# y Unity. También tengo interés en Java, y el desarrollo de blockchain con Solidity.
+
+Para más información, no dudes en contactar conmigo a través de LinkedIn. 
+
+¡Saludos!
 <!---
 DiieVil/DiieVil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
