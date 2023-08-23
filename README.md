@@ -1,5 +1,3 @@
-Hello!
-
 Welcome to my GitHub page, where you can find the different projects that I have developed in career Digital Technology and Multimedia at the Universitat Politècnica de València, as well as projects that I am currently developing.
 
 My main experience is focused on Python, C# and Unity. I also have interest in Java, and blockchain development with Solidity.
