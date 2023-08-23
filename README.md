@@ -1,11 +1,24 @@
-Currently studying Digital Technology and Multimedia at UPV
+¡Buenas!
 
-I have experience in C# (Unity), and currently studying and developing Full Stack projects, with Python and Angular.
+Tras terminar el grado de Tencnología Digital y Multimedia en la UPV, estoy en busca de trabajo. 
 
-Interested in software/blockchain/videogames development.
+Tengo experiencia en desarrollo de aplicaciones en Unity / C#, HTML, desarrollo Backend con Python y JavaScript, Frontend con CSS y Angular.
 
-Also very experienced in content creation (photography and videography), specialized in camera operator.
+Busco un puesto de desarrollador de Backend/Frontend, o desarrollador de software con las tecnologías anteriormente mencionadas.
 
+¡Un saludo!
+
+----
+
+Hello!
+
+After finishing my degree in Digital Technology and Multimedia at UPV, I'm looking for a job. 
+
+I have experience in software development in Unity / C#, HTML, Backend development with Python and JavaScript, Frontend with CSS and Angular.
+
+I am looking for a position as a Backend/Frontend developer, or software developer with the above mentioned technologies.
+
+Bests!
 <!---
 DiieVil/DiieVil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
